@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-emuq17%!(!oo$96c8%8@a@0waxcljuz$s3ve)-xmlx_vmq)_^-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
